@@ -1,7 +1,7 @@
 {
-  "name": "reapop-theme-wybo",
+  "name": "reapop-theme-wybo-rtl",
   "version": "0.4.1",
-  "description": "Official theme for Reapop",
+  "description": "RTL version for reapop wybo theme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,12 +21,12 @@
     "notification",
     "component"
   ],
-  "author": "Louis Barranqueiro",
+  "author": "Siavash Ahmadpour",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/LouisBarranqueiro/reapop-theme-wybo/issues"
+    "url": "https://github.com/ex7r3me/reapop-theme-wybo/issues"
   },
-  "homepage": "https://github.com/LouisBarranqueiro/reapop-theme-wybo#readme",
+  "homepage": "https://github.com/ex7r3me/reapop-theme-wybo#readme",
   "peerDependencies": {
     "font-awesome": "^4.6.1",
     "reapop": ">=0.6.0"

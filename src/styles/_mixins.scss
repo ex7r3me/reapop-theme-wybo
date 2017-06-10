@@ -5,7 +5,7 @@
 
 @mixin notification-variant($background, $border-color, $icon) {
     background-color: $background;
-    border-left:      2px solid #{$border-color};
+    border-right:     2px solid #{$border-color};
     color:            #524c4c;
 
     @if $icon != '' {

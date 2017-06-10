@@ -24,7 +24,6 @@
 
 // NotificationSystem component
 :local .notifications-system {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size:   14px;
     line-height: 1.428571429;
 }
@@ -177,7 +176,7 @@
     &-image-container {
         display:    table-cell;
         box-sizing: border-box;
-        padding:    10px 0 10px 15px;
+        padding:    10px 15px 10px 0px;
     }
     &-image {
         display:         inline-block;
@@ -190,7 +189,7 @@
     &-icon {
         display:    inline-block;
         box-sizing: border-box;
-        margin:     10px 0 10px 15px;
+        margin:     10px 15px 10px 0px;
         // override font-size of `fa` class
         font-size:  20px !important;
     }

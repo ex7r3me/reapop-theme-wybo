@@ -7,7 +7,7 @@
     background-color: $background;
     border-right:     2px solid #{$border-color};
     color:            #524c4c;
-
+    border-radius:    6px;
     @if $icon != '' {
         .notification-icon:before {
             content: $icon;

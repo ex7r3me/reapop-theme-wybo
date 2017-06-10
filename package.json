@@ -1,6 +1,6 @@
 {
   "name": "reapop-theme-wybo-rtl",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "RTL version for reapop wybo theme",
   "main": "index.js",
   "scripts": {
